@@ -1,2 +1,44 @@
-# Obsidia
-Editor de vídeo para Windows em desenvolvimento, com foco em edição não linear, composição multifaixa e exportação de mídia.
+<div align="center">
+  <img src="assets/obsidia-logo.png" alt="Obsidia" width="700">
+
+  <h3>Editor de vídeo para Windows</h3>
+
+  <img alt="Status: em construção" src="https://img.shields.io/badge/status-em%20constru%C3%A7%C3%A3o-8B5CF6">
+  <img alt="Plataforma: Windows" src="https://img.shields.io/badge/plataforma-Windows-18181B">
+</div>
+
+---
+
+> **🚧 Em fase de construção.** A Obsidia está evoluindo a partir do protótipo Corte Studio 0.1. A nova interface e os recursos do roteiro ainda estão em desenvolvimento.
+
+## Conheça a Obsidia
+
+A Obsidia é um editor de vídeo em desenvolvimento, inspirado no fluxo de edição do Filmora. A proposta reúne biblioteca de mídia, prévia, painel de ajustes e uma timeline multifaixa em uma interface preta com detalhes em roxo.
+
+<p align="center">
+  <img src="assets/obsidia-interface-conceito.png" alt="Conceito visual do editor com biblioteca, prévia, painel de ajustes e timeline multifaixa" width="100%">
+  <br>
+  <em>Conceito visual da próxima interface, criado quando o projeto ainda se chamava Corte Studio.</em>
+</p>
+
+## O que já funciona no protótipo
+
+- Importação e prévia de vídeos locais.
+- Corte, divisão, duplicação e reordenação de clipes em uma faixa de vídeo.
+- Títulos por clipe, fades e uma faixa adicional de música.
+- Salvamento e reabertura de projetos locais.
+- Exportação MP4 com H.264 e AAC em 720p ou 1080p.
+
+## Roteiro de desenvolvimento
+
+- [ ] Interface preta e roxa com a identidade da Obsidia.
+- [ ] Timeline multifaixa com régua, cursor global, zoom e encaixe de clipes.
+- [ ] Biblioteca com miniaturas, prévia da mídia fonte e painel de ajustes por clipe.
+- [ ] Transições, efeitos, máscaras, keyframes e legendas.
+- [ ] Edição multicâmera e ferramentas avançadas de áudio.
+- [ ] Recursos de IA, conforme a disponibilidade de modelos e serviços.
+- [ ] Validação de ponta a ponta com projetos de referência, da importação à exportação.
+
+## Tecnologias do protótipo
+
+**C# e WPF** na interface. **FFmpeg e FFprobe** no processamento e na leitura de mídi
