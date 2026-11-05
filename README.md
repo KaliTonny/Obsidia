@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="assets/obsidia-logo.png" alt="Obsidia" width="700">
+<img width="2172" height="724" alt="obsidia" src="https://github.com/user-attachments/assets/34f99a87-8ebf-47bb-a84c-81188fcebb81" />
+
 
   <h3>Editor de vídeo para Windows</h3>
 
@@ -22,7 +23,8 @@
 A Obsidia é um editor de vídeo em desenvolvimento, inspirado no fluxo de edição do Filmora. A proposta reúne biblioteca de mídia, prévia, painel de ajustes e uma timeline multifaixa em uma interface preta com detalhes em roxo.
 
 <p align="center">
-  <img src="assets/obsidia-interface-conceito.png" alt="Conceito visual do editor com biblioteca, prévia, painel de ajustes e timeline multifaixa" width="100%">
+  <img width="1672" height="941" alt="timeline" src="https://github.com/user-attachments/assets/0885b28b-c0fa-4f29-936b-6b649a04bfca" />
+ alt="Conceito visual do editor com biblioteca, prévia, painel de ajustes e timeline multifaixa" width="100%">
   <br>
   <em>Conceito visual da próxima interface, criado quando o projeto ainda se chamava Corte Studio.</em>
 </p>
