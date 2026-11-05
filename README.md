@@ -5,6 +5,12 @@
 
   <img alt="Status: em construção" src="https://img.shields.io/badge/status-em%20constru%C3%A7%C3%A3o-8B5CF6">
   <img alt="Plataforma: Windows" src="https://img.shields.io/badge/plataforma-Windows-18181B">
+
+  <p>
+    <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white">
+    <img alt="WPF" src="https://img.shields.io/badge/WPF-232329?style=for-the-badge&amp;logo=windows&amp;logoColor=white">
+    <img alt="FFmpeg" src="https://img.shields.io/badge/FFmpeg-232329?style=for-the-badge&amp;logo=ffmpeg&amp;logoColor=white">
+  </p>
 </div>
 
 ---
@@ -41,4 +47,4 @@ A Obsidia é um editor de vídeo em desenvolvimento, inspirado no fluxo de ediç
 
 ## Tecnologias do protótipo
 
-**C# e WPF** na interface. **FFmpeg e FFprobe** no processamento e na leitura de mídi
+**C# e WPF** na interface. **FFmpeg e FFprobe** no processamento e na leitura de mídia.
