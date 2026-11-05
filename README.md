@@ -24,7 +24,7 @@ A Obsidia é um editor de vídeo em desenvolvimento, inspirado no fluxo de ediç
 
 <p align="center">
   <img width="1672" height="941" alt="timeline" src="https://github.com/user-attachments/assets/0885b28b-c0fa-4f29-936b-6b649a04bfca" />
- "Conceito visual do editor com biblioteca, prévia, painel de ajustes e timeline multifaixa" width="100%"
+ "Conceito visual do editor com biblioteca, prévia, painel de ajustes e timeline multifaixa"
   <br>
   <em>Conceito visual da próxima interface, criado quando o projeto ainda se chamava Corte Studio.</em>
 </p>
