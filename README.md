@@ -3,7 +3,7 @@
 
 </p>
 
-<h1 align="center">Obsidia 0.9</h1>
+<h1 align="center">Obsidia 1.0</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square" alt="C#">
