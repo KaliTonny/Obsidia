@@ -1,10 +1,9 @@
 <p align="center">
- <img width="512" height="512" alt="logo" src="https://github.com/user-attachments/assets/b11411f7-8894-4961-b53f-9028c61ab5b6" />
+  <img width="512" height="512" alt="logo" src="https://github.com/user-attachments/assets/3372843b-26c6-4721-8083-c46bfc7285db" />
 
 </p>
 
-
-<h1 align="center">Obsidia 1.0</h1>
+<h1 align="center">Obsidia 0.9</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square" alt="C#">
@@ -16,7 +15,9 @@ Obsidia é um editor de vídeos curtos e gravador de tela para Windows. Dá para
 
 ## Baixar e abrir
 
-1. Abra a aba **Releases** deste repositório e baixe **`Obsidia.exe`** em **Assets**.
+[![Baixar Obsidia.exe para Windows](https://img.shields.io/badge/⬇%20Baixar-Obsidia.exe-2563EB?style=for-the-badge)](https://github.com/SEU-USUARIO/SEU-REPOSITORIO/releases/latest/download/Obsidia.exe)
+
+1. Clique em **Baixar Obsidia.exe**.
 2. Abra o `Obsidia.exe`. Na primeira abertura, ele extrai automaticamente o FFmpeg e o FFprobe que já vêm dentro do executável.
 3. Selecione um vídeo na tela inicial ou grave um clipe pelo próprio editor.
 
@@ -62,6 +63,14 @@ Na ferramenta de legendas, clique em **Baixar e ativar** para baixar o whisper.c
 - **A exportação ou gravação falhou.** Use **Configurações → Testar ffmpeg**. Se estiver usando um encoder de GPU, teste a exportação com x264. Para falhas de processamento, confira se existe um log em `%LOCALAPPDATA%\Obsidia\Cache\ultimo-erro.txt`.
 - **A webcam ou o microfone não aparece.** Confira as permissões de câmera e microfone para aplicativos de área de trabalho no Windows e atualize a lista de dispositivos no gravador.
 
+## Futuras mudanças
+
+Ideias para próximas versões, sem data definida.
+
+- Salvar projetos para retomar uma edição depois.
+- Adicionar ações de desfazer e refazer na edição.
+- Criar predefinições de exportação para vídeos verticais, quadrados e horizontais.
+- Mostrar o progresso da preparação das ferramentas de vídeo na primeira abertura.
 
 ## Reportar problemas
 
