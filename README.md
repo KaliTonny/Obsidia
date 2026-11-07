@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="./logo.png" alt="Logo do Obsidia" width="144">
-</p>
+<img width="512" height="512" alt="logo" src="https://github.com/user-attachments/assets/d4b8b08c-896d-4c92-8cbe-48ae349d80c2" />
+
 
 <h1 align="center">Obsidia 1.0</h1>
 
@@ -60,14 +59,6 @@ Na ferramenta de legendas, clique em **Baixar e ativar** para baixar o whisper.c
 - **A exportação ou gravação falhou.** Use **Configurações → Testar ffmpeg**. Se estiver usando um encoder de GPU, teste a exportação com x264. Para falhas de processamento, confira se existe um log em `%LOCALAPPDATA%\Obsidia\Cache\ultimo-erro.txt`.
 - **A webcam ou o microfone não aparece.** Confira as permissões de câmera e microfone para aplicativos de área de trabalho no Windows e atualize a lista de dispositivos no gravador.
 
-## Futuras mudanças
-
-Ideias para próximas versões, sem data definida.
-
-- Salvar projetos para retomar uma edição depois.
-- Adicionar ações de desfazer e refazer na edição.
-- Criar predefinições de exportação para vídeos verticais, quadrados e horizontais.
-- Mostrar o progresso da preparação das ferramentas de vídeo na primeira abertura.
 
 ## Reportar problemas
 
