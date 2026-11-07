@@ -1,4 +1,7 @@
-<img width="512" height="512" alt="logo" src="https://github.com/user-attachments/assets/d4b8b08c-896d-4c92-8cbe-48ae349d80c2" />
+<p align="center">
+ <img width="512" height="512" alt="logo" src="https://github.com/user-attachments/assets/b11411f7-8894-4961-b53f-9028c61ab5b6" />
+
+</p>
 
 
 <h1 align="center">Obsidia 1.0</h1>
