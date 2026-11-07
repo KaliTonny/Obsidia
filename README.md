@@ -15,7 +15,7 @@ Obsidia é um editor de vídeos curtos e gravador de tela para Windows. Dá para
 
 ## Baixar e abrir
 
-[![Baixar Obsidia.exe para Windows](https://img.shields.io/badge/⬇%20Baixar-Obsidia.exe-2563EB?style=for-the-badge)](https://github.com/SEU-USUARIO/SEU-REPOSITORIO/releases/latest/download/Obsidia.exe)
+[![Baixar Obsidia.exe para Windows](https://img.shields.io/badge/⬇%20Baixar-Obsidia.exe-2563EB?style=for-the-badge)](https://github.com/KaliTonny/Obsidia/releases/tag/v1.0.0)
 
 1. Clique em **Baixar Obsidia.exe**.
 2. Abra o `Obsidia.exe`. Na primeira abertura, ele extrai automaticamente o FFmpeg e o FFprobe que já vêm dentro do executável.
